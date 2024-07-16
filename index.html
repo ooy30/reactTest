@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Amway</title> 
+
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0/dist/chartjs-plugin-datalabels.min.js">
+  </script> 
+  <!--Espring CSS-->
+  <link rel="stylesheet" href="/espring.css">
+</head>
+
+<body class="amway-container">  
+  <div class="amway-container-mobile">
+    <div class="nav-mobile">
+      <div class="hamburger">
+        <img class="hamburger-img" src="assets/icon/berger.svg">
+      </div>
+
+      <div class="nav-mobile-title ">
+        <div class="sd-mb-title mb-0 espring-nav-header-mb">
+          <div class="sd-mb-t-title">เครื่องมือจัดการ Atmosphere/eSpring</div>
+          <div class="espring-nav-account-mb">
+            <p>2468769</p>
+            <img src="/AmwayTemplate/assets/icon/espring/icon-sign-out-mb.svg" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Content mobile -->
+    <div class="search-mb">
+      <div class="sd-mb-title-with-icon w-100 ">
+        <div class=" w-100">
+          <div class="form-search">
+            <input type="text" class="search-input w-100" placeholder="ค้นหา">
+            <div class="search-btn"></div>
+            <span class="border-search"></span>
+          </div>
+        </div>
+        <div class="ml-3 sd-mb-filter espring-sd-mb-filter">
+          <img data-toggle="modal" data-target="#espringMenuMobile"
+            src="/AmwayTemplate/assets/icon/espring/icon-setting-mb.svg" alt="">
+        </div>
+      </div>
+    </div>
+    <div class="mb-layout-foa-tb">
+      <div class="search-mb-pad"></div>
+    </div> 
+    <div class="content-mobile">
+      <div class="acd-container-mobile">
+        <div class="smart-dashboard-espring-content-profile smart-dashboard-espring-content-profile-mb unselect">
+          <div class="row">
+            <div class="col-lg-4 col-md-12">
+              <div class="smart-dashboard-espring-select-category-title">
+                <p>Quick Summary</p>
+              </div>
+              <p class="smart-dashboard-espring-content-profile-title">เครื่องทั้งหมดในองค์กร</p>
+              <div class="smart-dashboard-espring-content-profile-circle">
+                <div class="smart-dashboard-espring-content-profile-circle-details ">
+
+                  <div
+                    class="align-item-center text-center smart-dashboard-espring-content-profile-circle-box chart-area-pv-mobile">
+                    <div class="chart-area-pv">
+                      <svg class="chartpv">
+
+                      </svg>
+                      <div class="smart-dashboard-espring-content-profile-circle-details-chart-area-pv active">
+                        <p>90</p>
+                        <p>เครื่อง</p>
+                      </div>
+
+                    </div>
+                  </div> 
+                </div>
+                <div class="smart-dashboard-espring-content-profile-catagory">
+                  <p><svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <rect y="2.28003" width="21.6" height="21.6" rx="3" fill="#CA7F7F"/>
+                    <rect x="4.80005" width="12" height="21.6" fill="url(#pattern0)"/>
+                    <defs>
+                    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <use xlink:href="#image0_459_799" transform="matrix(0.025 0 0 0.0138889 -0.0125 0)"/>
+                    </pattern>
+                    <image id="image0_459_799" width="41" height="72" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAABICAYAAABryNwJAAAABHNCSVQICAgIfAhkiAAAA21JREFUaEPtWk1ME1EQnrcNoFASooFQYwIXOQiJUKJSD4JnOFQr4A2IgAkewItcjEriRWIiHtBQNYA3ERETuMCB6kGICehBPOClerBGYyTKTxXK+mbbR7aVbvvWrsQwkzTZ7c6b/d68+WZftx+DJKzCfacQbEolqEohMLVKDFEBchhAqVEI7rPIfV7rfPygMr9iU5++eNSq/z5uGD5+a6ty9+es2tYa+NXGRECSmOeWLpEJjCoK3DIC/AdIBBdU1ttVpnbwizlmAZgY5wPGumaGW3yxY6NAujx97g1g/bHg8nPt4CzeB5VHCsCelaHFcBY7pHAEPv+AwJclbczc/Ed4/vI9vPN/3SrGwK5Q2gXfaNOiuKiB1LJnW7uJS6sfdfxwAVSfKNIAjvsWYGn5lxSweM72rHTA2GgPx9/A+BSPvRIV289L4KQoARapvSl93ZUddEBzfbmWrbn5AHR2T6QMoACOQDsaXVoScPL3hmY1wFGmQtPMSOsAc3m8PbyA28XFs3VOaK4r105xhtd6n2nHjrxsqK4qSkkmcVVw+dEQ5KXzldoxLv/F6xPwKVIWSKw9K8F8dtTj/SZqsLerJqrWXKfvpgRUoiD6+2JW266MbdYrUzL2swqPlwMO2/RwS1Q8zCR+rDRnCS+tyMqJ++DS3x+a006VEJQZgrQSnFFsPUgAtWJngkRCIMn+xvSZTFiTMjdCZnZ2T26yFttLfU2JTIhNX8tAtl0eg1dvA4BPJ9FCHtw4BQcK90oDtQykaFfYIXr6p7XGrO+5Mkj/CUhxEwIpszTCV7/clMnYx6JMRimTRhsMyqRBBqhPij0ptSBqQRKtgohDxIn3k1aijICe3fTs1r1XkikdakHUgqgFxbzWS4ZARBwiDhGHiJNMr9D50FaNtmq0VZMkDboTcYg4RBwiTuIM0M6cduY7cmcu/u82qx6wjDhCOaDn7sjtM6b0GJaBRNERqqNQ4mDP5BKvprDEy4xZBtIMmHhj/n+Qk4MNXB+ZnsqkmIqFIj4hPxO6INTVHjKKhrKZ7CTAo2jJkZsNC1wjtLT8MyHAsJ+xJjNNCeZxaWKfWwX2JGHEbXFggzOPW1BTDHCs1luqbsBVLv9DpXNYIrqdpgKKNgdQ4Ikw4qqjjTC6aod2h9ZXM2XnEfoQ/D47e25NdtxvpmuXtyPmZAsAAAAASUVORK5CYII="/>
+                    </defs>
+                    </svg>
+ อีสปริง รุ่นล่าสุด</p>
+                  <p><img src="/icon-atmos-sky.svg" alt="">แอทโมสเฟียร์ สกาย</p>
+                  <p><object data="/icon-atmos-sky.svg"> </object> แอทโมสเฟียร์ มินิ</p>
+                  <p> <embed src="/icon-atmos-sky.svg" alt=""/> แอทโมสเฟียร์ ไดร์ฟ  </p>
+                  <p><iframe src="/icon-atmos-sky.svg"></iframe> อีสปริง</p>
+                  <p><img src="/icon-atmos.svg" >แอทโมสเฟียร์</p>  
+                </div>
+                <div class="smart-dashboard-espring-content-profile-catagory-amount-mb">
+                  <div class="smart-dashboard-espring-content-profile-catagory-amount-box-mb">
+                    <p>7</p>
+                    <p>35</p>
+                    <p>10</p>
+                    <p>5</p>
+                    <p>25</p>
+                    <p>13</p>
+                  </div>
+
+                </div>
+                <div class="smart-dashboard-espring-content-profile-catagory-amount">
+                  <p class="profile-catagory-amount-title">จำนวนเครื่องในองค์กร</p>
+                  <p class="profile-catagory-amount-sup-title">7</p>
+                </div>
+              </div>
+              <div class="smart-dashboard-espring-content-profile-circle-status">
+                <p>ลงทะเบียนแล้ว 65</p>
+                <p>ยังไม่ลงทะเบียน 25</p>
+              </div>
+
+            </div> 
+          </div>
+        </div> 
+      </div>
+    </div>
+  </div>  
+
+  <script>
+    function copyText() {
+      var text = document.getElementById("myText").innerText;
+      navigator.clipboard.writeText(text)
+        .then(function () {
+          alert("คัดลอกข้อความแล้ว: " + text);
+        })
+        .catch(function (err) {
+          console.error("เกิดข้อผิดพลาดในการคัดลอกข้อความ: ", err);
+        });
+    }
+  </script>
+
+  <!-- <script>
+    function changeInputType() {
+      var input = document.getElementById("myInput");
+      input.setAttribute("type", "date");
+      input.removeEventListener("click", changeInputType);
+    }
+  </script> -->
+
+  <script>
+    document.getElementById('scrollToTarget1').addEventListener('click', function (e) {
+      e.preventDefault(); // Prevent default anchor behavior
+      document.getElementById('espring-target').scrollIntoView({
+        behavior: 'smooth' // Smoothly scroll to the target element
+      });
+    });
+    document.getElementById('scrollToTarget2').addEventListener('click', function (e) {
+      e.preventDefault(); // Prevent default anchor behavior
+      document.getElementById('espring-target').scrollIntoView({
+        behavior: 'smooth' // Smoothly scroll to the target element
+      });
+    });
+    document.getElementById('scrollToTarget3').addEventListener('click', function (e) {
+      e.preventDefault(); // Prevent default anchor behavior
+      document.getElementById('espring-target-mb').scrollIntoView({
+        behavior: 'smooth' // Smoothly scroll to the target element
+      });
+    });
+    document.getElementById('scrollToTarget4').addEventListener('click', function (e) {
+      e.preventDefault(); // Prevent default anchor behavior
+      document.getElementById('espring-target-mb').scrollIntoView({
+        behavior: 'smooth' // Smoothly scroll to the target element
+      });
+    });
+
+    function scrollToElement(id) {
+      const element = document.getElementById(id);
+      if (element) {
+        element.scrollIntoView({
+          behavior: 'smooth'
+        });
+      }
+    }
+
+    function scrollToTop(id) {
+      const element = document.getElementById(id);
+      if (element) {
+        element.scrollIntoView({
+          behavior: 'smooth'
+        });
+      }
+    }
+  </script> 
+  <script>
+    function openLink() {
+      window.open('https://myproducts.amwayglobal.com/th-th/#/product-registration', '_blank');
+    }
+  </script>
+</body>
+
+</html>

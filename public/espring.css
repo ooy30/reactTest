@@ -1,0 +1,4350 @@
+/*Mobile*/
+@media only screen and (max-width: 768px) {
+  .profile-catagory-amount-sup-title {
+    font-size: 24px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details img {
+    width: 140px;
+    padding: 16px;
+  }
+
+  .share-link-downline-text-info p {
+    color: #2C2C2C;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .section-details-product-image img {
+    max-width: 85px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .col-9 .espring-product-sup-title {
+    margin: 0px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details .chart-area-pv {
+    margin-top: 24px;
+  }
+
+  .search-input {
+    margin-right: 3.25rem;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header {
+    margin-top: 16px;
+  }
+
+  .nav-mobile-title {
+    width: calc(100% - 4.5rem);
+  }
+
+  .search-mb-pad {
+    height: 4rem;
+  }
+
+  .smart-dashboard-espring-content-profile {
+    padding: 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details .chart-area-pv,
+  .smart-dashboard-espring-content-profile-circle-details .chartpv {
+    max-height: 180px;
+    width: 180px;
+    min-width: 180px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details .pie {
+    width: 180px;
+    height: 180px;
+  }
+
+  .smart-dashboard-espring-content-profile-title {
+    font-size: 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status p {
+    font-size: 14px;
+    padding: 4px 8px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status p {
+    width: 50px;
+    padding: 4px 16px;
+
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status {
+    justify-content: center;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status {
+    margin-top: 8px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box .amount {
+    font-size: 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box .title {
+    font-size: 18px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box img {
+    width: 18px;
+  }
+
+  .smart-dashboard-espring-content-profile-details .sup-title {
+    font-size: 14px;
+  }
+
+  .smart-dashboard-espring-content-profile-details .sup-title img {
+    width: 14px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header-box {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    gap: 4px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .row div:nth-child(1) {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header-text-box-mb {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .section-details-header-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .row div {
+    padding: 0px 4px 0px 0px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 14px;
+
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text.normal-text-mb {
+    font-weight: 500;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text.menu-normal-text-mb {
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-title {
+    font-size: 16px;
+    width: 24px;
+    height: 24px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text-amount {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header {
+    width: 100%;
+    padding: 16px 28px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header-text-amount.coupon-menu-mb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+
+    padding: 8px 12px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header-text-amount.coupon-menu-mb img {
+    width: 8px;
+    margin-left: 4px;
+  }
+
+  .section-details-product-image img {
+    width: 100%;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product-container {
+    padding: 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .row {
+    padding: 0px 16px;
+  }
+
+  .section-details-product-image.package-active .section-details-product-image-icon img,
+  .section-details-product-image.package-overdate .section-details-product-image-icon img {
+    width: 40px;
+  }
+
+  .section-details-product-image-icon {
+    position: absolute;
+    top: -2px;
+    left: -4px;
+    z-index: 1;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .row div p {
+    font-size: 12px;
+    line-height: 1;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .espring-product-name.espring-product-name-mb {
+    font-size: 14px;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .row div p img {
+    cursor: pointer;
+    width: 30px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .col-9 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .col-9 {
+    padding: 0px;
+    padding-left: 16px;
+  }
+
+  .espring-profile-details-mb {
+    padding: 0px;
+  }
+
+  .espring-profile-details-mb .row .col-3 {
+    padding: 0px;
+  }
+
+  .espring-profile-details-mb .row .col-9 {
+    padding: 0px;
+    padding-left: 16px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  .espring-profile-details-mb .row .col-9 .section-details-product,
+  .espring-profile-details-mb .row .col-9 .section-details-product-mb {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .espring-profile-details-mb .row .col-12 {
+    padding: 0px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .espring-product-sup-title {
+    height: 30px;
+  }
+
+  .section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::before,
+  .section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::after {
+    top: -16px;
+    left: 0px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box.smart-dashboard-espring-content-profile-details-box-mb {
+    display: block;
+    text-align: center;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box-mb .row {
+    width: 100%;
+    padding: 0px 8px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box-mb .row .col-6 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0px;
+    width: 50%;
+  }
+
+  .smart-dashboard-espring-content-product-section-details {
+    margin-top: 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details.first-box {
+    margin-top: 32px;
+  }
+
+  .modal-dialog-slideout .modal-header {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  }
+
+  .espring-modal-section-coupon-table-details-btn {
+    font-size: 12px;
+  }
+
+  .espring-modal-section-coupon-table-details-btn.espring-modal-section-coupon-table-details-btn-mb {
+    padding: 2px 8px;
+  }
+
+  .modal-title {
+    font-size: 16px;
+  }
+
+  .modal-dialog {
+    max-width: 100%;
+  }
+
+  .espring-modal-section-share-link-downline-confirm-box {
+    width: 80%;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .espring-product-title.non-register {
+    font-size: 12px;
+  }
+}
+
+
+/*Ipad*/
+@media (min-width: 768px) and (max-width: 1023px) {
+  .profile-catagory-amount-sup-title {
+    font-size: 28px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details img {
+    width: 180px;
+    padding: 24px;
+  }
+
+  .share-link-downline-text-info p {
+    color: #2C2C2C;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .section-details-product-image img {
+    max-width: 100px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .col-9 .espring-product-sup-title {
+    margin: 0px;
+  }
+
+  .search-mb-pad {
+    height: 5rem;
+  }
+
+  .smart-dashboard-espring-content-profile {
+    padding: 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details .chart-area-pv,
+  .smart-dashboard-espring-content-profile-circle-details .chartpv {
+    max-height: 150px;
+    width: 150px;
+    min-width: 150px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details .pie {
+    width: 150px;
+    height: 150px;
+  }
+
+  .smart-dashboard-espring-content-profile-title {
+    font-size: 20px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status p {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status p {
+    width: 50px;
+    padding: 8px 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status {
+    justify-content: start;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box .amount {
+    font-size: 18px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box .title {
+    font-size: 24px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box img {
+    width: 22px;
+  }
+
+  .smart-dashboard-espring-content-profile-details .sup-title {
+    font-size: 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-details .sup-title img {
+    width: 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header-box {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 8px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .row div:nth-child(1) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header div {
+    display: flex;
+    align-items: center;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-title {
+    font-size: 20px;
+    width: 32px;
+    height: 32px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text-amount {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header {
+    width: 100%;
+    padding: 16px 32px;
+  }
+
+  .section-details-product-image img {
+    width: 100%;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product-container {
+    padding: 16px 32px;
+  }
+
+  .section-details-product-image.package-active .section-details-product-image-icon img,
+  .section-details-product-image.package-overdate .section-details-product-image-icon img {
+    width: 60px;
+  }
+
+  .section-details-product-image-icon {
+    position: absolute;
+    top: -12px;
+    left: -4px;
+    z-index: 1;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .row div p {
+    min-height: 24px;
+    line-height: 0.7;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .row div p img {
+    cursor: pointer;
+    width: 30px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .espring-product-sup-title {
+    height: 30px;
+  }
+
+  .section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::before,
+  .section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::after {
+    top: -4px;
+    left: 4px;
+  }
+
+
+  .espring-modal-section-share-link-downline-confirm-box {
+    width: 70%;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .espring-product-title.non-register {
+    font-size: 16px;
+  }
+}
+
+/*Desktop*/
+@media (min-width: 1024px) {
+  .profile-catagory-amount-sup-title {
+    font-size: 28px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details img {
+    width: 180px;
+    padding: 24px;
+  }
+
+  .share-link-downline-text-info p {
+    color: #2C2C2C;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .section-details-product-image img {
+    max-width: 90px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details.first-box .smart-dashboard-espring-content-product-section-details-header {
+    margin-top: 0px;
+  }
+
+  .espring-modal-section.espring-modal-section-coupon .modal-header {
+    padding: 32px 32px 16px 32px;
+  }
+
+  .espring-modal-section .modal-header {
+    padding: 32px 32px 8px 32px;
+  }
+
+  .espring-modal-section.espring-modal-section-coupon .modal-body {
+    padding: 0px 48px 48px 48px;
+  }
+
+  .espring-modal-section .modal-body {
+    padding: 0px 32px 32px 32px;
+  }
+
+  .espring-modal-section.espring-modal-section-coupon {
+    max-width: 1200px;
+  }
+
+  .espring-modal-section.espring-modal-section-history {
+    max-width: 840px;
+  }
+
+  .espring-modal-section-coupon-table-container {
+    padding: 0px 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-menu-dropdown .dropdown {
+    min-width: 180px;
+    width: 100% !important;
+  }
+
+  .smart-dashboard-espring-content-profile {
+    padding: 16px 32px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box .title,
+  .smart-dashboard-espring-content-profile-details-box .amount,
+  .smart-dashboard-espring-content-profile-details-box .amount {}
+
+  .smart-dashboard-espring-content-profile-circle-details .chart-area-pv,
+  .smart-dashboard-espring-content-profile-circle-details .chartpv {
+    max-height: 200px;
+    width: 200px;
+    min-width: 220px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details .pie {
+    width: 200px;
+    height: 200px;
+  }
+
+  .smart-dashboard-espring-content-profile-title {
+    font-size: 20px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status p {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status p {
+    width: 50px;
+    padding: 16px 16px;
+
+  }
+
+  .smart-dashboard-espring-content-profile-circle-status {
+    justify-content: start;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box .amount {
+    font-size: 18px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box .title {
+    font-size: 24px;
+  }
+
+  .smart-dashboard-espring-content-profile-details-box img {
+    width: 22px;
+  }
+
+  .smart-dashboard-espring-content-profile-details .sup-title {
+    font-size: 16px;
+  }
+
+  .smart-dashboard-espring-content-profile-details .sup-title img {
+    width: 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header-box {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .row div:nth-child(1) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header div {
+    display: flex;
+    align-items: center;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-title {
+    font-size: 20px;
+    width: 32px;
+    height: 32px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text-amount {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-header {
+    width: 100%;
+    padding: 16px 32px;
+  }
+
+  .section-details-product-image img {
+    width: 100%;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product-container {
+    padding: 16px 32px;
+  }
+
+  .section-details-product-image.package-active .section-details-product-image-icon img,
+  .section-details-product-image.package-overdate .section-details-product-image-icon img {
+    width: 60px;
+  }
+
+  .section-details-product-image-icon {
+    position: absolute;
+    top: -12px;
+    left: -4px;
+    z-index: 1;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .row div p {
+    min-height: 24px;
+    line-height: 0.7;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .row div p img {
+    cursor: pointer;
+    width: 30px;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .espring-product-title.registered {
+    color: #38539A;
+    font-size: 16px;
+  }
+
+  .section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::before,
+  .section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::after {
+    top: -4px;
+    left: 4px;
+  }
+
+  .espring-modal-section-share-link-downline-confirm-box {
+    width: 70%;
+  }
+
+  .smart-dashboard-espring-content-product-section-details-product .espring-product-title.non-register {
+    font-size: 16px;
+  }
+}
+
+/* iPad Pro (10.5-inch) and iPad Pro (12.9-inch) */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+
+  /* Styles for iPad Pro in portrait mode */
+  .smart-dashboard-espring-content-profile-circle-details .chart-area-pv,
+  .smart-dashboard-espring-content-profile-circle-details .chartpv {
+    max-height: 150px;
+    width: 150px;
+    min-width: 150px;
+  }
+
+  .smart-dashboard-espring-content-profile-circle-details .pie {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  /* Styles for iPad Pro in landscape mode */
+}
+
+/* .amway-navigation,
+.amway-content {
+  display: block;
+} */
+.container span,
+.main-example span {
+  border: none !important;
+}
+
+.smart-dashboard-espring-content-profile {
+  border-radius: 16px;
+  background: var(--4-Light-Purple, #F1F2FF);
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.10);
+}
+
+.smart-dashboard-espring-content-profile-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 16px;
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown p {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+
+
+.smart-dashboard-espring-content-profile-menu-dropdown .dropdown .sd-dropdown:hover {
+  border: 2px solid var(--1-Amway-Black, #38539A);
+  box-shadow: 4px 4px 4px 0px rgba(56, 83, 154, 0.10);
+  transition: 0.1s;
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown .dropdown .sd-dropdown {
+  color: #2c2c2c;
+  font-size: 16px;
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown select {
+  border-radius: 100px;
+  border: 2px solid var(--1-Amway-Black, #2C2C2C);
+  background: var(--2-Pure-White, #FFF);
+  padding: 6px 12px;
+  min-width: 180px;
+
+  font-size: 14px;
+
+  cursor: pointer;
+  line-height: 1.5;
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown select:hover {
+  border: 2px solid var(--1-Amway-Black, #38539A);
+  box-shadow: 4px 4px 4px 0px rgba(56, 83, 154, 0.10);
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown-box {
+  position: relative;
+  width: fit-content;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown-box::before,
+.smart-dashboard-espring-content-profile-menu-dropdown-box::after {
+  content: url(..//icon/icon-dropdown-arrow.svg);
+  --size: 0.5rem;
+  position: absolute;
+  right: 1rem;
+  pointer-events: none;
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown-box .select {
+  background-color: DodgerBlue;
+}
+
+.smart-dashboard-espring-content-profile-details {
+  margin: 16px 0px;
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.smart-dashboard-espring-content-profile-details.smart-dashboard-espring-content-profile-details-mb {
+  position: relative;
+}
+
+.smart-dashboard-espring-content-profile-details.smart-dashboard-espring-content-profile-details-mb .col-6 {
+  padding: 0px 8px;
+}
+
+.smart-dashboard-espring-content-profile-details.smart-dashboard-espring-content-profile-details-mb .col-12 {
+  padding: 0px 8px;
+}
+
+.smart-dashboard-espring-content-profile-details-box {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 8px;
+}
+
+.smart-dashboard-espring-content-profile-details .col-3,
+.smart-dashboard-espring-content-profile-details .col-4,
+.smart-dashboard-espring-content-profile-details .col-5 {
+  border-left: 2px solid #D6D6D6;
+  padding: 0px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 16px;
+}
+
+.smart-dashboard-espring-content-profile-details-box .title {
+  color: var(--3-Dark-Purple, #38539A);
+  font-weight: 800;
+
+  margin: 0px;
+}
+
+.smart-dashboard-espring-content-profile-details-box .amount {
+  margin: 0px;
+}
+
+.smart-dashboard-espring-content-profile-details-box img {
+  cursor: pointer;
+}
+
+.smart-dashboard-espring-content-profile-details-box .image-pv {
+  width: 26px !important;
+  cursor: pointer;
+}
+
+.smart-dashboard-espring-content-profile-details-box .image-gpv {
+  width: 36px !important;
+  cursor: pointer;
+}
+
+.smart-dashboard-espring-content-profile-details .sup-title {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  line-height: 24px;
+  margin: 0px;
+  margin-top: 8px;
+  gap: 8px;
+}
+
+.smart-dashboard-espring-content-profile-details .sup-title img {
+  cursor: pointer;
+}
+
+.smart-dashboard-espring-content-profile-circle {
+  display: flex;
+}
+
+.smart-dashboard-espring-content-profile-catagory {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-content-profile-catagory p {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+
+  font-size: 14px;
+
+  gap: 8px;
+  image-rendering: 16px;
+  margin-bottom: 4px;
+}
+
+.smart-dashboard-espring-content-profile-title {
+  font-weight: 800;
+  margin: 8px 0px;
+}
+
+.smart-dashboard-espring-content-title p {
+  font-size: 24px;
+  font-weight: 800;
+  margin: 16px 0px;
+}
+
+
+
+.smart-dashboard-espring-content-profile-circle-status {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.smart-dashboard-espring-content-profile-circle-status p {
+  font-weight: 800;
+  width: fit-content;
+  margin: 0px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 8px;
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.10);
+
+  cursor: pointer;
+
+}
+
+.smart-dashboard-espring-content-profile-circle-status p:first-child {
+  color: #546223;
+  background: var(--8-Light-Green, #F0FAE5);
+}
+
+.smart-dashboard-espring-content-profile-circle-status p:first-child:hover {
+  color: #F0FAE5;
+  background: var(--8-Light-Green, #546223);
+
+  transition: 0.3s;
+}
+
+.smart-dashboard-espring-content-profile-circle-status p:nth-child(2) {
+  color: #A65523;
+  background: var(--10-Light-Orange, #FFF1E8);
+}
+
+.smart-dashboard-espring-content-profile-circle-status p:nth-child(2):hover {
+  color: #FFF1E8;
+  background: var(--10-Light-Orange, #A65523);
+
+  transition: 0.3s;
+}
+
+.smart-dashboard-espring-content-product-section-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  align-items: center;
+}
+
+.smart-dashboard-espring-content-product-section-container {
+  display: flex;
+  gap: 8px;
+  justify-content: space-between;
+  width: 100%;
+
+  margin: 24px 0px 0px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-search::before,
+.smart-dashboard-espring-content-product-section-search::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-search.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 8px;
+  pointer-events: none;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-search input {
+  border-radius: 100px;
+  border: 2px solid #38539A;
+  height: 26px;
+
+}
+
+.smart-dashboard-espring-content-product-section-search .form-control {
+  min-width: 260px;
+  height: 32px;
+}
+
+.input-group>.custom-select:not(:first-child),
+.input-group>.form-control:not(:first-child) {
+  border-bottom-left-radius: 100px;
+  border-top-left-radius: 100px;
+  font-size: 16px;
+}
+
+.smart-dashboard-espring-content-product-section-menu,
+.smart-dashboard-espring-content-product-section-reset-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 28px 4px 8px;
+  border-radius: 100px;
+  height: 32px;
+
+  gap: 8px;
+
+  cursor: pointer;
+  position: relative;
+}
+
+.smart-dashboard-espring-content-product-section-menu {
+  background-color: #38539A;
+  border: 2px solid #38539A;
+}
+
+.smart-dashboard-espring-content-product-section-menu::before,
+.smart-dashboard-espring-content-product-section-menu::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-hide-menu.svg);
+  --size: fit-content;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 8px;
+  pointer-events: none;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px 0px;
+
+}
+
+.smart-dashboard-espring-content-product-section-menu:hover::before,
+.smart-dashboard-espring-content-product-section-menu:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-hide-menu-hover.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 8px;
+  pointer-events: none;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu::before,
+.smart-dashboard-espring-content-product-section-reset-menu::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-reset-menu.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 8px;
+  pointer-events: none;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu.active::before,
+.smart-dashboard-espring-content-product-section-reset-menu.active::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-reset-menu-active.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu:hover::before,
+.smart-dashboard-espring-content-product-section-reset-menu:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-reset-menu-hover.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu {
+  background-color: #D6D6D6;
+  border: 1px solid #D6D6D6;
+  pointer-events: none;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu.active {
+  color: #38539A;
+  background-color: #F1F2FF;
+  border: 1px solid #38539A;
+  cursor: pointer;
+  pointer-events: all;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu.active:hover {
+  background-color: #38539A;
+  color: #ffffff;
+  transition: 0.3s;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu:hover p {
+  color: #ffffff;
+}
+
+.smart-dashboard-espring-content-product-section-menu:hover {
+  background-color: #ffffff;
+  border: 2px solid #38539A;
+  transition: 0.3s;
+}
+
+.smart-dashboard-espring-content-product-section-menu:hover p {
+  color: #38539A;
+}
+
+.smart-dashboard-espring-content-product-section-menu p,
+.smart-dashboard-espring-content-product-section-reset-menu p {
+  width: max-content;
+  font-size: 16px;
+  font-weight: 700;
+
+  margin: 0px;
+
+}
+
+.smart-dashboard-espring-content-product-section-menu p {
+  color: #ffffff;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu p {
+  color: #5E5E5E;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu.active p {
+  color: #38539A;
+}
+
+.smart-dashboard-espring-content-product-section-reset-menu.active:hover p {
+  color: #ffffff;
+}
+
+.smart-dashboard-espring-content-product-section-sub {
+  display: flex;
+  gap: 8px;
+}
+
+.smart-dashboard-espring-content-product-section-details-header {
+  width: 100%;
+  margin-top: 32px;
+
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  background-color: #38539A;
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.05);
+
+}
+
+.smart-dashboard-espring-content-product-section-details .smart-dashboard-espring-content-product-section-details-header {
+  margin-top: 32px;
+}
+
+.smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #38539A;
+  font-weight: 800;
+  padding: 8px;
+  border-radius: 100px;
+  background-color: #ffffff;
+}
+
+.smart-dashboard-espring-content-product-section-details-header .row div p {
+  margin-bottom: 0px;
+}
+
+.section-details-header-box {
+  display: flex;
+  gap: 8px;
+  justify-content: start;
+}
+
+.smart-dashboard-espring-content-product-section-details-header .smart-dashboard-espring-content-product-section-details-header-text-amount {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #38539A;
+  font-weight: 700;
+  height: 24px;
+  border-radius: 100px;
+  background-color: #ffffff;
+}
+
+.smart-dashboard-espring-content-product-section-details-header .row div:nth-child(6) p:nth-child(2) {
+  position: relative;
+  padding: 8px 32px 8px 16px;
+  cursor: pointer;
+}
+
+.smart-dashboard-espring-content-product-section-details-header .row div:nth-child(6) p:nth-child(2)::before,
+.smart-dashboard-espring-content-product-section-details-header .row div:nth-child(6) p:nth-child(2)::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-dropdown-arrow-bule.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.05);
+  margin: 8px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container .smart-dashboard-espring-content-product-section-details-line,
+.smart-dashboard-espring-content-product-section-details-product-container .smart-dashboard-espring-content-product-section-details-all,
+.smart-dashboard-espring-content-product-section-details-product-container .smart-dashboard-espring-content-product-section-details-hide {
+  display: none;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container.details-open .smart-dashboard-espring-content-product-section-details-line,
+.smart-dashboard-espring-content-product-section-details-product-container.details-open .smart-dashboard-espring-content-product-section-details-all,
+.smart-dashboard-espring-content-product-section-details-product-container.details-open .smart-dashboard-espring-content-product-section-details-hide {
+  display: flex;
+}
+
+.smart-dashboard-espring-content-product-section-details-all {
+  width: 100%;
+}
+
+.smart-dashboard-espring-content-product-section-details-all .row {
+  width: -webkit-fill-available;
+}
+
+.smart-dashboard-espring-content-product-section-details-product p {
+  margin-bottom: 8px;
+}
+
+.smart-dashboard-espring-content-product-section-details-product .espring-product-sup-title {
+  color: #707070;
+  font-weight: 600;
+}
+
+.smart-dashboard-espring-content-product-section-details-product .espring-product-name {
+  color: #2c2c2c;
+  font-size: 16px;
+  font-weight: 800;
+  height: 30px;
+}
+
+.smart-dashboard-espring-content-product-section-details-product .espring-product-number {
+  font-size: 16px;
+  color: #38539A;
+  font-weight: 600;
+}
+
+.smart-dashboard-espring-content-product-section-details-product .row div p {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: max-content;
+}
+
+.smart-dashboard-espring-content-product-section-details-product .espring-product-title {
+  color: #38539A;
+  font-size: 16px;
+  font-weight: 800;
+  height: 30px;
+}
+
+.smart-dashboard-espring-content-product-section-details-product .espring-product-title.registered {
+  color: #38539A;
+  font-weight: 800;
+  height: 30px;
+
+  width: 100%;
+  justify-content: space-between;
+}
+
+.smart-dashboard-espring-content-product-section-details-product .espring-product-title.non-register {
+  color: #707070;
+  font-weight: 800;
+  height: 30px;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container.downline .smart-dashboard-espring-content-product-section-details-product .row div p img {
+  display: none;
+}
+
+.section-details-product,
+.section-details-product-mb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px 8px 28px;
+  border-radius: 100px;
+  width: fit-content;
+  font-weight: 800;
+  position: relative;
+
+  cursor: pointer;
+}
+
+.section-details-product.register-done::before,
+.section-details-product.register-done::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-register-done.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product.register-done:hover::before,
+.section-details-product.register-done:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-register-done-hover.svg);
+}
+
+.section-details-product.register-now::before,
+.section-details-product.register-now::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-register-now.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product.register-now:hover::before,
+.section-details-product.register-now:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-register-now-hover.svg);
+}
+
+.section-details-product.downline-register-now::before,
+.section-details-product.downline-register-now::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-downline-register.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product.downline-register-now:hover::before,
+.section-details-product.downline-register-now:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-downline-register-hover.svg);
+}
+
+.section-details-product.product-history {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-details-product.product-history::before,
+.section-details-product.product-history::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-history.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product.product-history:hover::before,
+.section-details-product.product-history:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-history-hover.svg);
+}
+
+.section-details-product-mb.product-history {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-details-product-mb.product-history::before,
+.section-details-product-mb.product-history::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-history.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-mb.product-history:hover::before,
+.section-details-product-mb.product-history:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-history-hover.svg);
+}
+
+.section-details-product.product-device-history::before,
+.section-details-product.product-device-history::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-device-history.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product.product-device-history:hover::before,
+.section-details-product.product-device-history:hover::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-device-history-hover.svg);
+}
+
+
+.section-details-product.register-done {
+  color: #107F47;
+  background-color: #F0FAE5;
+}
+
+.section-details-product.register-done:hover {
+  color: #F0FAE5;
+  background-color: #107F47;
+
+  transition: 0.3s;
+}
+
+.section-details-product.downline-register-now {
+  color: #A65523;
+  background-color: #FFF1E8;
+}
+
+.section-details-product.downline-register-now:hover {
+  color: #FFF1E8;
+  background-color: #A65523;
+
+  transition: 0.3s;
+}
+
+.section-details-product.register-now {
+  color: #A65523;
+  background-color: #FFF1E8;
+}
+
+.section-details-product.register-now:hover {
+  color: #FFF1E8;
+  background-color: #A65523;
+
+  transition: 0.3s;
+}
+
+.section-details-product.product-history {
+  color: #38539A;
+  background-color: #F1F2FF;
+}
+
+.section-details-product.product-history:hover {
+  color: #F1F2FF;
+  background-color: #38539A;
+
+  transition: 0.3s;
+}
+
+.section-details-product-mb.product-history {
+  color: #38539A;
+  background-color: #F1F2FF;
+}
+
+.section-details-product-mb.product-history:hover {
+  color: #F1F2FF;
+  background-color: #38539A;
+
+  transition: 0.3s;
+}
+
+.section-details-product.product-device-history {
+  color: #38539A;
+  background-color: #F1F2FF;
+}
+
+.section-details-product.product-device-history:hover {
+  color: #F1F2FF;
+  background-color: #38539A;
+
+  transition: 0.3s;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container .section-details-product-status .section-details-product.register-now {
+  display: flex;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container.downline .section-details-product-status .section-details-product.register-now {
+  display: none;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container .section-details-product-status .section-details-product.downline-register-now {
+  display: none;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container.downline .section-details-product-status .section-details-product.downline-register-now {
+  display: flex;
+}
+
+.section-details-product-status .section-details-product.register-done {
+  display: none;
+}
+
+.section-details-product-status.registered .section-details-product.register-now {
+  display: none;
+}
+
+.section-details-product-status.registered .section-details-product.register-done {
+  display: flex;
+}
+
+.section-details-user img {
+  display: none;
+}
+
+.section-details-user.registered img {
+  display: block;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container.downline .section-details-user.registered img {
+  display: none;
+}
+
+.section-details-product-maintance-status {
+  position: relative;
+  pointer-events: none;
+}
+
+.section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status {
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.section-details-product-maintance-status-product-icon-container.status-alert {
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::before,
+.section-details-product-maintance-status-product-icon-container.status-alert .section-details-product-maintance-status::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-alert.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-content-product-section-toggle {
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+
+  margin: 8px 0px 16px 0px;
+}
+
+.smart-dashboard-espring-content-product-section-toggle.toggle-active {
+  display: flex;
+  justify-content: space-between;
+}
+
+.smart-dashboard-espring-content-product-section-toggle .custom-switch {
+  height: 30px;
+  width: 48px;
+}
+
+.smart-dashboard-espring-content-product-section-toggle .custom-switch .custom-control-label::before {
+  height: 20px;
+  width: 40px;
+  border-radius: 100px;
+
+  background-color: #adb5bd;
+  cursor: pointer;
+}
+
+.smart-dashboard-espring-content-product-section-toggle .custom-switch .custom-control-label::after {
+  height: 16.5px;
+  width: 16.5px;
+  border-radius: 100px;
+
+  cursor: pointer;
+  background-color: #ffffff;
+}
+
+.custom-switch .custom-control-input:checked~.custom-control-label::after {
+  transform: translateX(1.65rem);
+}
+
+.smart-dashboard-espring-content-product-section-toggle .custom-control-input:checked~.custom-control-label::before {
+  background-color: #38539A;
+  border: 1px solid #38539A;
+}
+
+.smart-dashboard-espring-content-product-section-toggle-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.smart-dashboard-espring-content-product-section-toggle-box p {
+  font-size: 14px;
+  color: #2C2C2C;
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+
+.smart-dashboard-espring-content-product-section-details-line {
+  border-bottom: 2px solid #E4E4E4;
+  margin: 16px 0px;
+}
+
+.product-register-details-warranty {
+  margin: 30px 0px;
+}
+
+.product-register-details-warranty p {
+  margin-bottom: 8px;
+}
+
+.product-register-details-warranty .espring-product-sup-title {
+  color: #707070;
+  font-weight: 600;
+
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.product-register-details-warranty .espring-product-sup-title img {
+  cursor: pointer;
+}
+
+.product-register-details-warranty .espring-product-title {
+  font-size: 18px;
+  font-weight: 800;
+  color: #38539A;
+}
+
+.product-register-details-warranty .espring-product-condition {
+  color: #38539A;
+  font-weight: 600;
+
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+.product-register-details-warranty .espring-product-condition img {
+  cursor: pointer;
+}
+
+.product-register-details .product-register-details-title,
+.product-date-details .product-register-details-title {
+  font-size: 16px;
+  font-weight: 800;
+  color: #2c2c2c;
+}
+
+.product-register-details-status {
+  position: relative;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 18px;
+  font-weight: 800;
+  padding: 8px 16px 8px 32px;
+  border-radius: 8px;
+
+  width: 90%;
+
+  cursor: pointer;
+}
+
+/* .product-register-details-status.user-registered::before,
+.product-register-details-status.user-registered::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-register-done.svg);
+  --size: 0.5rem;
+  width: 24px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-register-details-status.user-non-register::before,
+.product-register-details-status.user-non-register::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-non-register.svg);
+  --size: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 8px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+.product-register-details-warranty .espring-product-condition {
+  width: fit-content;
+}
+
+.product-register-details-status.user-registered {
+  pointer-events: none;
+}
+
+.product-register-details-status.user-registered img {
+  width: 18px;
+}
+
+.product-register-details-status.user-non-register {
+  cursor: pointer;
+}
+
+.product-register-details-status.user-non-register {
+  color: #D91734;
+  background-color: #FFE2E2;
+}
+
+.product-register-details-status.user-non-register img {
+  width: 18px;
+}
+
+.product-register-details-status.user-non-register:hover {
+  color: #D91734;
+  background-color: #FFE2E2;
+}
+
+.product-register-details-status {
+  color: #107F47;
+  background-color: #F0FAE5;
+}
+
+.product-register-details-status:hover {
+  color: #F0FAE5;
+  background-color: #107F47;
+
+  transition: 0.3s;
+}
+
+/* .section-details-product-image.package-active {
+  position: relative;
+}
+
+.section-details-product-image.package-active::before,
+.section-details-product-image.package-active::after {
+  content: url(/AmwayTemplate/assets/images/image-product-package.png);
+  --size: 0.5rem;
+  transform: scale(.5);
+  position: absolute;
+  top: -32px;
+  left: -16px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-image.package-overdate {
+  position: relative;
+}
+
+.section-details-product-image.package-overdate::before,
+.section-details-product-image.package-overdate::after {
+  content: url(/AmwayTemplate/assets/images/image-product-package-overdate.png);
+  --size: 0.5rem;
+  transform: scale(.5);
+  position: absolute;
+  top: -32px;
+  left: -16px;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+.section-details-product-image {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px;
+}
+
+
+.section-details-product-image.package-active .section-details-product-image-icon span {
+  pointer-events: none;
+}
+
+.section-details-product-image.package-overdate .section-details-product-image-icon span {
+  cursor: pointer;
+}
+
+.section-details-product-image.package-active .section-details-product-image-icon .section-details-product-image-icon-active {
+  display: block;
+  pointer-events: none;
+
+}
+
+.section-details-product-image.no-package .section-details-product-image-icon {
+  display: none;
+}
+
+.section-details-product-image.package-active .section-details-product-image-icon .section-details-product-image-icon-overdate {
+  display: none;
+
+}
+
+.section-details-product-image.package-overdate .section-details-product-image-icon .section-details-product-image-icon-active {
+  display: none;
+
+}
+
+.section-details-product-image.package-overdate .section-details-product-image-icon .section-details-product-image-icon-overdate {
+  display: block;
+
+}
+
+.product-date-details-add-date .espring-product-sup-title {
+  color: #707070;
+  margin-bottom: 4px;
+
+}
+
+.product-date-details-add-date-selection {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.product-date-details-add-date-selection .espring-product-name {
+  color: #2c2c2c;
+  font-size: 16px;
+  font-weight: 800;
+
+  margin: 0px;
+
+}
+
+.product-date-details-add-date-selection button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  font-weight: 600;
+  color: #ffffff;
+  padding: 4px 4px 4px 8px;
+  background-color: #2C2C2C;
+  border: 1px solid #2c2c2c;
+  border-radius: 100px;
+}
+
+.product-date-details-add-date-selection button:hover {
+  background-color: #000000;
+
+  transition: 0.3s;
+}
+
+.smart-dashboard-espring-content-product-section-toggle .form-cs-switch {
+  padding-right: 0.625rem;
+  border: none;
+}
+
+.smart-dashboard-espring-content-product-section-toggle .amway-switch-input:checked~.amway-switch-label::before {
+  background-color: #38539A;
+  border: 0.125rem solid #38539A;
+  content: "";
+}
+
+.smart-dashboard-espring-content-product-section-toggle .amway-switch-input:checked~.amway-switch-label::after {
+  border: 0.125rem solid #38539A;
+}
+
+.smart-dashboard-espring-content-product-section-toggle label {
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.smart-dashboard-espring-content-profile-circle-details .labels {
+  display: none;
+}
+
+
+.smart-dashboard-espring-content-profile-circle-details .chart-area-pv {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-content-profile-circle-details-chart-area-pv {
+  position: absolute;
+  margin-bottom: 8px;
+}
+
+.smart-dashboard-espring-content-profile-circle-details-chart-area-pv p:nth-child(1) {
+  font-size: 22px;
+  font-weight: 800;
+  color: #2c2c2c;
+  margin-bottom: 4px;
+}
+
+.smart-dashboard-espring-content-profile-circle-details-chart-area-pv p:nth-child(2) {
+  font-size: 16px;
+  font-weight: 600;
+  color: #707070;
+  margin-bottom: 0px;
+}
+
+.product-date-details-add-date input {
+  width: 100%;
+  min-width: 200px;
+  padding: 4px 8px;
+  border: 2px solid #38539A;
+  border-radius: 100px;
+
+  cursor: pointer;
+}
+
+.product-date-details-add-date input[type="date"]::-webkit-calendar-picker-indicator {
+  background: url(/AmwayTemplate/assets/icon/espring/icon-calendar.svg) no-repeat;
+  background-size: 14px;
+  padding: 2px 2px;
+  cursor: pointer;
+}
+
+.product-date-details-add-date input:hover {
+  box-shadow: 4px 4px 4px 0px rgba(56, 83, 154, 0.10);
+  transition: 0.1s;
+}
+
+
+.product-date-details-add-date-selection-input {
+  color: #38539A;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.product-date-details-add-date-selection-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.product-date-details-add-date-selection-btn button {
+  color: #38539A;
+  padding: 4px 16px;
+  font-weight: 600;
+  background-color: #F1F2FF;
+  border: 1px solid #F1F2FF;
+  border-radius: 100px;
+}
+
+.product-date-details-add-date-selection-btn button:hover {
+  color: #F1F2FF;
+  background-color: #38539A;
+  transition: 0.3s;
+}
+
+.product-date-details-add-date {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.smart-dashboard-espring-package-status {
+  background-color: #38539A;
+  padding: 16px;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status {
+  background-color: #949494;
+}
+
+.smart-dashboard-espring-package-status-col div {
+  padding: 0px 4px;
+}
+
+.smart-dashboard-espring-package-status-col div p {
+  display: flex;
+
+  color: #ffffff;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+}
+
+.smart-dashboard-espring-package-status .espring-package-status-amount {
+  color: #ffffff;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+}
+
+.smart-dashboard-espring-package-status-details .smart-dashboard-espring-package-status-details-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.smart-dashboard-espring-package-status-details .smart-dashboard-espring-package-status-details-title .espring-package-status-title {
+  font-size: 16px;
+  color: #2c2c2c;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+
+.smart-dashboard-espring-package-status-details .smart-dashboard-espring-package-status-details-title .espring-package-status-sup-title {
+  font-size: 14px;
+  color: #38539A;
+  margin-top: 4px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-title .espring-package-status-title {
+  font-size: 16px;
+  color: #949494;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details .smart-dashboard-espring-package-status-details-title .espring-package-status-sup-title {
+  font-size: 14px;
+  color: #949494;
+  margin-top: 8px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col .row div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+}
+
+.smart-dashboard-espring-package-status-details {
+  padding: 8px 16px;
+}
+
+.smart-dashboard-espring-package-status-details-col,
+.smart-dashboard-espring-package-status-details-title {}
+
+.espring-package-status-check-amount {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 40px;
+}
+
+.smart-dashboard-espring-package-status-details-col .espring-package-status-check-amount {
+  color: #38539A;
+  font-weight: 700;
+  font-size: 16px;
+  margin: 0px;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col .espring-package-status-check-amount {
+  color: #949494;
+  font-weight: 700;
+  font-size: 14px;
+  margin: 0px;
+}
+
+.smart-dashboard-espring-package-status-table {
+  margin: 32px 0px;
+}
+
+.smart-dashboard-espring-package-status-table .col-12:nth-child(2),
+.smart-dashboard-espring-package-status-table .col-12:nth-child(3),
+.smart-dashboard-espring-package-status-table .col-12:nth-child(4) {
+  border-bottom: 2px solid #E4E4E4;
+}
+
+.smart-dashboard-espring-content-product-section-details-hide {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+
+  position: relative;
+
+
+}
+
+.smart-dashboard-espring-content-product-section-details-hide img {
+  cursor: pointer;
+  position: absolute;
+  top: -48px;
+  right: -16px;
+}
+
+.smart-dashboard-espring-package-status-details-col-check-point {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 4px;
+}
+
+.smart-dashboard-espring-package-status-details-col-check-point::before,
+.smart-dashboard-espring-package-status-details-col-check-point::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-maintance-uncheck.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-details-col-check-point.clean-checked::before,
+.smart-dashboard-espring-package-status-details-col-check-point.clean-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-clean-checked.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.clean-checked::before,
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.clean-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-clean-overdate-checked.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-details-col-check-point.maintance-checked::before,
+.smart-dashboard-espring-package-status-details-col-check-point.maintance-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-maintance-checked.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.maintance-checked::before,
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.maintance-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-maintance-overdate-checked.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-details-col-check-point.filter-checked::before,
+.smart-dashboard-espring-package-status-details-col-check-point.filter-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-filter.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.filter-checked::before,
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.filter-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-filter-overdate.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-details-col-check-point.pipe-checked::before,
+.smart-dashboard-espring-package-status-details-col-check-point.pipe-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-pipe.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.pipe-checked::before,
+.smart-dashboard-espring-package-status-table.overdate .smart-dashboard-espring-package-status-details-col-check-point.pipe-checked::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-pipe-overdate.svg);
+  --size: 0.5rem;
+  height: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon,
+.section-details-product-maintance-status-product-icon-container {
+  position: relative;
+}
+
+.section-details-product-maintance-status-product-icon-container {
+  margin-bottom: 8px;
+}
+
+.section-details-product-maintance-status-product-icon-container p {
+  margin-bottom: 0px;
+}
+
+.section-details-product-maintance-status-product-icon-container.espring-new-icon .icon-01::before,
+.section-details-product-maintance-status-product-icon-container.espring-new-icon .icon-01::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-espring-new-01.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.espring-new-icon .icon-02::before,
+.section-details-product-maintance-status-product-icon-container.espring-new-icon .icon-02::after {
+  content: url(/AmwayTemplate/assets/icon/espring/icon-espring-new-02.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.espring-icon .icon-02::before,
+.section-details-product-maintance-status-product-icon-container.espring-icon .icon-02::after {
+  content: url(/AmwayTemplate/assets/icon/espring/espring-spares-icon-02.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.espring-icon .icon-01::before,
+.section-details-product-maintance-status-product-icon-container.espring-icon .icon-01::after {
+  content: url(/AmwayTemplate/assets/icon/espring/espring-spares-icon-01.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.espring-icon .icon-02::before,
+.section-details-product-maintance-status-product-icon-container.espring-icon .icon-02::after {
+  content: url(/AmwayTemplate/assets/icon/espring/espring-spares-icon-02.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.atmosphere-icon .icon-01::before,
+.section-details-product-maintance-status-product-icon-container.atmosphere-icon .icon-01::after {
+  content: url(/AmwayTemplate/assets/icon/espring/atmosphere-spares-icon-01.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.atmosphere-icon .icon-02::before,
+.section-details-product-maintance-status-product-icon-container.atmosphere-icon .icon-02::after {
+  content: url(/AmwayTemplate/assets/icon/espring/atmosphere-spares-icon-02.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.atmosphere-sky-icon .icon-01::before,
+.section-details-product-maintance-status-product-icon-container.atmosphere-sky-icon .icon-01::after {
+  content: url(/AmwayTemplate/assets/icon/espring/atmosphere-sky-mini-spares-icon-01.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.atmosphere-sky-icon .icon-02::before,
+.section-details-product-maintance-status-product-icon-container.atmosphere-sky-icon .icon-02::after {
+  content: url(/AmwayTemplate/assets/icon/espring/atmosphere-sky-spares-icon-02.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.atmosphere-drive-icon .icon-01::before,
+.section-details-product-maintance-status-product-icon-container.atmosphere-drive-icon .icon-01::after {
+  content: url(/AmwayTemplate/assets/icon/espring/atmosphere-drive-spares-icon-01.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-details-product-maintance-status-product-icon-container.atmosphere-mini-icon .icon-01::before,
+.section-details-product-maintance-status-product-icon-container.atmosphere-mini-icon .icon-01::after {
+  content: url(/AmwayTemplate/assets/icon/espring/atmosphere-sky-mini-spares-icon-01.svg);
+  --size: 0.5rem;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.section-details-product-maintance-status-product-icon {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #2C2C2C;
+  border-radius: 100px;
+}
+
+.section-details-product-maintance-status-product-icon-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.smart-dashboard-espring-package-status-table .espring-package-status-icon-normal {
+  display: block;
+}
+
+.smart-dashboard-espring-package-status-table .espring-package-status-icon-overdate {
+  display: none;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .espring-package-status-icon .espring-package-status-icon-normal {
+  display: none;
+}
+
+.smart-dashboard-espring-package-status-table.overdate .espring-package-status-icon .espring-package-status-icon-overdate {
+  display: block;
+}
+
+.espring-modal-section-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+
+  gap: 8px;
+}
+
+.espring-modal-section-title p {
+  font-size: 18px;
+  color: #38539A;
+  font-weight: 800;
+
+  margin-bottom: 0px;
+}
+
+.espring-modal-section button {
+  opacity: 1;
+}
+
+.espring-modal-section button img {
+  width: 28px;
+}
+
+.espring-modal-section .modal-content {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 4px 4px 4px 0px rgba(56, 83, 154, 0.20);
+}
+
+.espring-modal-section .modal-header {
+  align-items: center;
+  border: none;
+}
+
+.smart-dashboard-espring-content-product-section-details .product-add-cart {
+  display: flex;
+}
+
+.smart-dashboard-espring-content-product-section-details .product-share-link {
+  display: none;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container.downline .product-add-cart {
+  display: none;
+}
+
+.smart-dashboard-espring-content-product-section-details-product-container.downline .product-share-link {
+  display: flex;
+}
+
+.espring-modal-section-coupon-table {
+  padding: 16px;
+  background-color: #38539A;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.espring-modal-section-coupon-table p {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+  margin: 0px;
+}
+
+.espring-modal-section-coupon-table-details {
+  padding: 16px;
+  border-bottom: 1.5px solid #E4E4E4;
+  align-items: center;
+}
+
+.espring-modal-section-coupon-table-details p {
+  margin: 0px;
+}
+
+.espring-modal-section-coupon-table-details .espring-modal-section-coupon-table-details-text {
+  color: #2c2c2c;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.espring-modal-section-coupon-table-details.coupon-use .espring-modal-section-coupon-table-details-text {
+  color: #949494;
+}
+
+.espring-modal-section-coupon-table-details-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 8px;
+
+}
+
+.espring-modal-section-coupon-table-details-btn.coupon-used {
+  width: 100%;
+  color: #A65523;
+  font-weight: 800;
+  background-color: #FFF1E8;
+}
+
+.espring-modal-section-coupon-table-details-btn.coupon-overdate {
+  width: 100%;
+  color: #949494;
+  font-weight: 800;
+  background-color: #E4E4E4;
+}
+
+.espring-modal-section-coupon-table-details-btn.coupon-almost {
+  width: 100%;
+  color: #D91734;
+  font-weight: 800;
+  background-color: #FFE2E2;
+}
+
+.espring-modal-section-coupon-table-details-btn.coupon-not-use {
+  width: 100%;
+  color: #107F47;
+  font-weight: 800;
+  background-color: #F0FAE5;
+}
+
+.espring-modal-section-coupon-table-details-btn.coupon-add-cart {
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+
+  padding: 4px 4px 4px 8px;
+  gap: 8px;
+  color: #ffffff;
+  font-weight: 800;
+  background-color: #2c2c2c;
+  border-radius: 100px;
+
+  cursor: pointer;
+}
+
+.espring-modal-section-coupon-table-details-btn.coupon-add-cart:hover {
+  background-color: #000000;
+  transition: 0.3s;
+}
+
+.espring-modal-section-product-name-edit {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.espring-modal-section-product-name form .form-row {
+  width: 100%;
+  color: #2C2C2C;
+  font-weight: 700;
+}
+
+.espring-modal-section-product-name form .col-12 {
+  padding: 0px;
+}
+
+.espring-modal-section-product-name form {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.espring-modal-section-product-name .form-control,
+.espring-modal-section-history-date-change .form-control {
+  margin-bottom: 8px;
+  border: none;
+
+}
+
+.espring-modal-section-history-date-change .form-control {
+  color: #2c2c2c;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 0px;
+
+  display: flex;
+  align-items: center;
+}
+
+.espring-modal-section-history-date-change .form-control[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+.espring-modal-section-product-name .form-control[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+.espring-modal-section-product-name .form-control[type="date"] {}
+
+.espring-modal-section-product-name .form-control {
+  font-size: 16px;
+}
+
+.espring-modal-section-product-name .form-control.unselect {
+  color: #2c2c2c;
+  font-weight: 700;
+  background-color: #F1F2FF;
+  border: none;
+  padding: 4px 36px 4px 8px;
+}
+
+.espring-modal-section-product-name .form-control.form-control-downline.unselect {
+  color: #38539A;
+}
+
+.espring-modal-section-product-name .form-control.unselect,
+.espring-modal-section-history-date-change .form-control.unselect {
+  position: relative;
+}
+
+.espring-modal-section-history-date-change .form-control {
+  padding: 8px 0px;
+}
+
+.espring-modal-section-product-name .form-control.unselect {
+  /* Add padding for the image */
+  background-image: url('/AmwayTemplate/assets/icon/espring/icon-profile-edit.svg');
+  background-size: 20px;
+  /* Set the size of the image */
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  /* Position the image */
+  /* Add border for the input */
+  border-radius: 5px;
+  /* Optional: Add border radius */
+
+  cursor: pointer;
+}
+
+.espring-modal-section-product-name .form-control.form-control-profile.unselect {
+  /* Add padding for the image */
+  background-image: url('/AmwayTemplate/assets/icon/espring/icon-profile-edit.svg');
+}
+
+.espring-modal-section-btn-save-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 16px 0px;
+}
+
+.espring-modal-section-history-date-change .form-control.unselect {
+  /* Add padding for the image */
+  background-image: url('/AmwayTemplate/assets/icon/espring/icon-history-date-change.svg');
+  background-size: 20px;
+  /* Set the size of the image */
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  /* Position the image */
+  /* Add border for the input */
+  border-radius: 5px;
+  /* Optional: Add border radius */
+
+  cursor: pointer;
+}
+
+.espring-modal-section-btn-save {
+  color: #ffffff;
+  font-size: 16px;
+  padding: 8px 16px;
+  background-color: #38539A;
+  border: 2px solid #38539A;
+  border-radius: 100px;
+  min-width: 120px;
+  font-weight: 700;
+}
+
+.espring-modal-section-btn-save:hover {
+  color: #38539A;
+  font-size: 16px;
+  padding: 8px 16px;
+  background-color: #F1F2FF;
+  border: 2px solid #38539A;
+  border-radius: 100px;
+  font-weight: 700;
+
+  transition: 0.3s;
+}
+
+.espring-modal-section-product-name .product-number {
+  font-size: 14px;
+  font-weight: 700;
+  color: #38539A;
+  margin-bottom: 8px;
+}
+
+.espring-modal-section-product-name .product-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #2c2c2c;
+}
+
+.espring-modal-section-share-link-downline-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.espring-modal-section-share-link-downline-image img {
+  width: 200px;
+}
+
+.espring-modal-section-share-link-downline-confirm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.share-link-downline-btn {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 800;
+  width: 100%;
+  padding: 8px 16px;
+  background-color: #2c2c2c;
+  border-radius: 100px;
+  border: none;
+}
+
+.share-link-downline-btn:hover {
+  background-color: #000000;
+}
+
+.share-link-downline-title {
+  color: #2c2c2c;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.share-link-downline-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 16px 0px;
+  gap: 8px;
+}
+
+.share-link-downline-footer p {
+  font-size: 12px;
+  align-items: center;
+  text-align: center;
+}
+
+.share-link-downline-btn-line {
+  border-bottom: 1px solid #2c2c2c;
+  width: 100%;
+}
+
+.share-link-downline-btn-line-text p {
+  margin-bottom: 0px;
+}
+
+.share-link-downline-btn-line-section {
+  display: flex;
+  align-items: center;
+  margin: 16px 0px;
+
+  gap: 8px;
+
+}
+
+.share-link-downline-btn-copy {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border-radius: 12px;
+  background-color: #C1C6C8;
+  padding: 4px 4px 4px 8px;
+}
+
+.share-link-downline-btn-copy p {
+  font-weight: 700;
+  margin-bottom: 0px;
+  max-width: 180px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #ffffff;
+}
+
+.share-link-downline-btn-copy button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  color: #ffffff;
+  font-weight: 700;
+  background-color: #2c2c2c;
+  padding: 8px 8px;
+  border-radius: 8px;
+}
+
+.share-link-downline-btn-copy button img {
+  width: 12px;
+}
+
+.share-link-downline-btn-copy button:hover {
+  background-color: #000000;
+
+  transition: 0.3s;
+}
+
+.espring-modal-section-condition-details ul {
+  list-style-type: none;
+  padding-left: 8px;
+  /* Remove default list style */
+}
+
+.espring-modal-section-condition-details ul li {
+  font-size: 16px;
+
+  margin-bottom: 16px;
+  /* Add some spacing between list items */
+  padding-left: 32px;
+  /* Add left padding for the custom marker */
+  background-image: url('/AmwayTemplate/assets/images/image-package.png');
+  /* Specify the image URL */
+  background-size: 28px;
+  /* Set the size of the image */
+  background-repeat: no-repeat;
+  /* Prevent the image from repeating */
+  background-position: left start;
+  /* Position the image */
+}
+
+.espring-modal-section-condition-warranty-details ul {
+  padding-left: 16px;
+}
+
+.espring-modal-section-condition-warranty-details ul li {
+  font-size: 16px;
+  font-weight: 500;
+  color: #5E5E5E;
+}
+
+.espring-modal-section-condition-warranty-details-title {
+  font-size: 16px;
+  font-weight: 800;
+  color: #5E5E5E;
+}
+
+.espring-modal-section-condition-warranty-details .warranty-details-02 {
+  list-style-type: none;
+}
+
+.espring-modal-section-condition-warranty-details .warranty-details-03 {
+  list-style-type: decimal;
+}
+
+[hover-tooltip] {
+  position: relative;
+  cursor: default;
+}
+
+[hover-tooltip]:hover::before {
+  content: attr(hover-tooltip);
+  font-size: 12px;
+  font-weight: 500;
+  text-align: center;
+  position: absolute;
+  display: block;
+  left: 50%;
+  width: max-content;
+  min-width: 120px;
+  max-width: 280px;
+  bottom: calc(100% + 10px);
+  transform: translate(-50%);
+  animation: fade-in 300ms ease;
+  background: #FFF;
+  border-radius: 28px;
+  padding: 12px;
+  color: #38539A;
+  z-index: 1;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.10);
+  white-space: pre-wrap;
+}
+
+[hover-tooltip]:hover::after {
+  content: "";
+  position: absolute;
+  display: block;
+  left: 50%;
+  width: 0;
+  height: 0;
+  bottom: calc(100% + 6px);
+  margin-left: -3px;
+  border: 1px solid black;
+  border-color: #FFF transparent transparent transparent;
+  border-width: 4px 6px 0;
+  animation: fade-in 300ms ease;
+  z-index: 1;
+  white-space: pre-wrap;
+}
+
+[hover-tooltip][tooltip-position=bottom]:hover::before {
+  bottom: auto;
+  top: calc(100% + 10px);
+}
+
+[hover-tooltip][tooltip-position=bottom]:hover::after {
+  bottom: auto;
+  top: calc(100% + 6px);
+  border-color: transparent transparent #272727;
+  border-width: 0 6px 4px;
+}
+
+[hover-tooltip-alert] {
+  position: relative;
+  cursor: default;
+}
+
+[hover-tooltip-alert]:hover::before {
+  content: attr(hover-tooltip-alert);
+  font-size: 14px;
+  text-align: center;
+  position: absolute;
+  display: block;
+  left: 50%;
+  min-width: 260px;
+  max-width: 500px;
+  bottom: calc(100% + 10px);
+  transform: translate(-50%);
+  animation: fade-in 300ms ease;
+  background: #FFF;
+  border-radius: 100px;
+  padding: 12px;
+  color: #D91734;
+  z-index: 1;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.10);
+}
+
+[hover-tooltip-alert]:hover::after {
+  content: "";
+  position: absolute;
+  display: block;
+  left: 50%;
+  width: 0;
+  height: 0;
+  bottom: calc(100% + 6px);
+  margin-left: -3px;
+  border: 1px solid black;
+  border-color: #FFF transparent transparent transparent;
+  border-width: 4px 6px 0;
+  animation: fade-in 300ms ease;
+  z-index: 1;
+}
+
+[hover-tooltip-alert][tooltip-position=bottom]:hover::before {
+  bottom: auto;
+  top: calc(100% + 10px);
+}
+
+[hover-tooltip-alert][tooltip-position=bottom]:hover::after {
+  bottom: auto;
+  top: calc(100% + 6px);
+  border-color: transparent transparent #272727;
+  border-width: 0 6px 4px;
+}
+
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.container,
+.main-example {
+  text-align: center;
+  margin: 100px 0 0;
+}
+
+.container.container,
+.main-example.container {
+  margin: 30px 0;
+}
+
+.container span,
+.main-example span {
+  border: 1px solid gray;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+#espring-content {}
+
+#espring-target {}
+
+.smart-dashboard-espring-package-status-details-col-check-point span {
+  width: 30px;
+  height: 30px;
+}
+
+.smart-dashboard-espring-content-product-section-toggle .w-auto {
+  width: 100% !important;
+}
+
+.smart-dashboard-espring-content-product-section-toggle .sd-text-filter {
+  justify-content: space-between;
+}
+
+.smart-dashboard-espring-content-profile.unselect .smart-dashboard-espring-content-profile-catagory {
+  display: flex;
+}
+
+.smart-dashboard-espring-content-profile.unselect .smart-dashboard-espring-content-profile-circle-box {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile.selected .smart-dashboard-espring-content-profile-circle-box,
+.smart-dashboard-espring-content-profile.selected .smart-dashboard-espring-content-profile-catagory {
+  display: none;
+}
+
+.smart-dashboard-espring-content-profile.unselect .smart-dashboard-espring-content-profile-product-icon-box,
+.smart-dashboard-espring-content-profile.unselect .smart-dashboard-espring-content-profile-catagory-amount {
+  display: none;
+}
+
+.smart-dashboard-espring-content-profile.selected .smart-dashboard-espring-content-profile-product-icon-box,
+.smart-dashboard-espring-content-profile.selected .smart-dashboard-espring-content-profile-catagory-amount {
+  display: flex;
+}
+
+.smart-dashboard-espring-content-profile.unselect .smart-dashboard-espring-content-profile-product-icon-box-mb,
+.smart-dashboard-espring-content-profile.unselect .smart-dashboard-espring-content-profile-catagory-amount {
+  display: none;
+}
+
+.smart-dashboard-espring-content-profile.selected .smart-dashboard-espring-content-profile-product-icon-box-mb,
+.smart-dashboard-espring-content-profile.selected .smart-dashboard-espring-content-profile-catagory-amount {
+  display: flex;
+}
+
+.smart-dashboard-espring-content-profile.unselect .smart-dashboard-espring-content-profile-title {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile.selected .smart-dashboard-espring-content-profile-title {
+  display: none;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box {
+  width: fit-content;
+  height: 220px;
+  align-items: center;
+  justify-content: start;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box img {
+  display: none;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box.new-espring .main-product-new-espring {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box.atmosphere-sky .main-product-atmosphere-sky {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box.atmosphere-mini .main-product-atmosphere-mini {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box.atmosphere-drive .main-product-atmosphere-drive {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box.espring .main-product-espring {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box.atmosphere .main-product-atmosphere {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb {
+  width: fit-content;
+  height: 160px;
+  align-items: center;
+  justify-content: start;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb img {
+  display: none;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb.new-espring .main-product-new-espring {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb.atmosphere-sky .main-product-atmosphere-sky {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb.atmosphere-mini .main-product-atmosphere-mini {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb.atmosphere-drive .main-product-atmosphere-drive {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb.espring .main-product-espring {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-product-icon-box-mb.atmosphere .main-product-atmosphere {
+  display: block;
+}
+
+.smart-dashboard-espring-content-profile-catagory-amount {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  gap: 24px;
+}
+
+.profile-catagory-amount-title {
+  font-size: 18px;
+  width: max-content;
+  white-space: nowrap;
+  margin: 0px;
+}
+
+.profile-catagory-amount-sup-title {
+  color: var(--3-Dark-Purple, #38539A);
+  font-weight: 800;
+  width: max-content;
+  white-space: nowrap;
+  margin: 0px;
+}
+
+.smart-dashboard-espring-content-profile-menu-dropdown .sd-dropdown-item,
+.sop-up-lv-b-detail {
+  font-size: 16px;
+}
+
+.smart-dashboard-title {
+  display: block;
+}
+
+.section-details-product-maintance-status-mb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.modal-espring-details-header-mb {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.modal-espring-profile-header-mb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+
+  gap: 16px;
+  background-color: #38539A;
+  padding: 16px;
+}
+
+.modal-espring-profile-header-mb-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: #38539A;
+  font-weight: 700;
+
+  width: 34px;
+  height: 30px;
+  border-radius: 100px;
+  background-color: #ffffff;
+  margin: 0px;
+}
+
+.modal-espring-profile-header-mb-box {
+  width: 100%;
+}
+
+.modal-espring-profile-header-mb-box p {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0px;
+}
+
+.modal-espring-profile-header-mb-number {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  font-size: 14px;
+  gap: 8px;
+}
+
+.modal-espring-profile-header-mb-number p {
+  font-weight: 500;
+}
+
+.modal-body-espring-profile-header-mb .container {
+  margin: 0px;
+}
+
+.modal-body-espring-profile-header-mb p {
+  margin: 0px;
+}
+
+.modal-body-espring-profile-header-mb .espring-product-sup-title {
+  color: #707070;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.modal-body-espring-profile-header-mb .espring-product-name.espring-product-name-mb {
+  color: #2C2C2C;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.modal-body-espring-profile-header-mb .espring-product-number {
+  color: #38539A;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.modal-body-espring-profile-header-mb .row .col-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+
+.modal-body-espring-profile-line {
+  border-bottom: 1px solid #D6D6D6;
+  margin: 16px 0px;
+  width: 100%;
+}
+
+.modal-body-espring-profile-register-status div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+.modal-body-espring-profile-register-status-done {
+  background-color: #F0FAE5;
+}
+
+.modal-body-espring-profile-register-status-none {
+  background-color: #FFE2E2;
+}
+
+.modal-body-espring-profile-register-status-done p {
+  color: #107F47;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.modal-body-espring-profile-register-status-none p {
+  color: #D91734;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.modal-body-espring-profile-register-status.registered .modal-body-espring-profile-register-status-done {
+  display: flex;
+}
+
+.modal-body-espring-profile-register-status.registered .modal-body-espring-profile-register-status-none {
+  display: none;
+}
+
+.modal-body-espring-profile-register-status.none-register .modal-body-espring-profile-register-status-done {
+  display: none;
+}
+
+.modal-body-espring-profile-register-status.none-register .modal-body-espring-profile-register-status-none {
+  display: flex;
+}
+
+.modal-body-espring-profile-register-details-title {
+  color: #707070;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 2;
+}
+
+.modal-body-espring-profile-register-details-date {
+  color: #38539A;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 2;
+}
+
+.modal-body-espring-profile-register-details-condition {
+  color: #707070;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 2;
+
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 8px;
+}
+
+.modal-body-espring-profile-register-details {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: start;
+  margin: 16px 0px;
+}
+
+.modal-body-espring-profile-register-details-box {
+  text-align: start;
+}
+
+.modal-body-espring-profile-header-mb .modal-body-espring-profile-maintance-status-title {
+  color: #2C2C2C;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: start;
+  line-height: 1.5;
+  margin-top: 16px;
+}
+
+.modal-body-espring-profile-maintance-status-number {
+  color: #707070;
+  font-size: 12px;
+  font-weight: 500;
+  text-align: start;
+  line-height: 2;
+}
+
+.modal-body-espring-profile-maintance-status-name {
+  color: #2C2C2C;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: start;
+  line-height: 2;
+}
+
+.modal-body-espring-profile-maintance-status-cart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background-color: #2c2c2c;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 100px;
+  padding: 4px 4px 4px 16px;
+  border: 1px solid #2c2c2c;
+}
+
+.modal-body-espring-profile-maintance-status-box input {
+  font-size: 14px;
+  width: 100%;
+  min-width: 80px;
+  padding: 8px 8px;
+  border: 2px solid #38539A;
+  border-radius: 100px;
+
+  cursor: pointer;
+  margin-bottom: 0px;
+}
+
+.modal-body-espring-profile-maintance-status-box input[type="date"]::-webkit-calendar-picker-indicator {
+  background: url(/AmwayTemplate/assets/icon/espring/icon-calendar.svg) no-repeat;
+  background-size: 14px;
+  padding: 2px 2px;
+  cursor: pointer;
+}
+
+.modal-body-espring-profile-maintance-status-box input:hover {
+  box-shadow: 4px 4px 4px 0px rgba(56, 83, 154, 0.10);
+  transition: 0.1s;
+}
+
+.modal-body-espring-profile-maintance-status-box .product-date-details-add-date-selection-btn button {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.modal-body-espring-profile-maintance-status-box .product-date-details-add-date-selection-btn {
+  justify-content: space-between;
+  width: 100%;
+}
+
+.modal-body-espring-profile-warranty-condition p {
+  text-align: start;
+}
+
+.modal-body-espring-profile-warranty-condition .modal-body-espring-profile-warranty-condition-title:first-child {
+  margin-bottom: 16px;
+  margin-top: 48px;
+}
+
+.modal-body-espring-profile-warranty-condition .modal-body-espring-profile-warranty-condition-title {
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+.modal-body-espring-profile-warranty-condition-title {
+  color: #38539A;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.modal-body-espring-profile-warranty-condition .modal-body-espring-profile-warranty-condition-sup-title {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.modal-body-espring-profile-warranty-condition-sup-title {
+  color: #2c2c2c;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.modal-body-espring-profile-warranty-condition-details {
+  color: #5E5E5E;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.modal-body-espring-profile-warranty-condition ul {
+  padding: 0px 16px;
+}
+
+.modal-body-espring-profile-warranty-condition ul li {
+  color: #5E5E5E;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: start;
+}
+
+.modal-body-espring-profile-warranty-condition .modal-body-espring-profile-warranty-condition-number {
+  list-style-type: auto;
+}
+
+.modal-content-espring-details-mb .modal-footer {
+  background: transparent;
+  background-color: transparent;
+  border: none;
+
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.modal-content-espring-details-mb .modal-footer div {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.modal-content-espring-details-mb .modal-footer div img {
+  width: 25px;
+  height: 25px;
+}
+
+.modal-body.modal-body-espring-coupon-mb {
+  background-color: #F2F2F2;
+}
+
+/*Modal*/
+.modal-dialog-slideout {
+  min-height: 100%;
+  margin: 0 0 0 auto;
+  background: #fff;
+}
+
+.modal-dialog-slidebottom {
+  height: fit-content;
+  margin: 0 0 0 auto;
+  background: #fff;
+}
+
+.modal.fade .modal-dialog.modal-dialog-slideout {
+  -webkit-transform: translate(100%, 0)scale(1);
+  transform: translate(100%, 0)scale(1);
+}
+
+.modal.fade .modal-dialog.modal-dialog-slidebottom {
+  -webkit-transform: translate(100%, 0)scale(1);
+  transform: translate(0, 100%)scale(1);
+}
+
+.modal.fade.show .modal-dialog.modal-dialog-slideout {
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 0);
+  display: flex;
+  align-items: stretch;
+  -webkit-box-align: stretch;
+  height: 100%;
+}
+
+.modal.fade.show .modal-dialog.modal-dialog-slidebottom {
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 60%);
+  display: flex;
+  align-items: stretch;
+  -webkit-box-align: stretch;
+  height: 100%;
+}
+
+.modal.fade.show .modal-dialog.modal-dialog-slidebottom.espring-modal-section-menu {
+  transform: translate(0, 20%);
+}
+
+.modal.fade.show .modal-dialog.modal-dialog-slideout .modal-body {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.modal-dialog-slideout .modal-content {
+  border: 0;
+}
+
+.modal-dialog-slideout .modal-header,
+.modal-dialog-slideout .modal-footer {
+  height: 4rem;
+  display: block;
+}
+
+.modal.fade.show .modal-dialog.modal-dialog-slidebottom .modal-body {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.modal-dialog-slidebottom .modal-content {
+  border: 0;
+}
+
+.modal-dialog-slidebottom .modal-header,
+.modal-dialog-slidebottom .modal-footer {
+  height: 4rem;
+  display: block;
+}
+
+.modal-espring-coupon-mb-box {
+  background-color: #fff;
+  padding: 16px 24px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.modal-espring-coupon-mb-box {
+  position: relative;
+}
+
+.modal-espring-coupon-mb-box-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background-color: #f2f2f2;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.modal-espring-coupon-mb-box-circle.circle-left {
+  left: -10px;
+}
+
+.modal-espring-coupon-mb-box-circle.circle-right {
+  right: -10px;
+}
+
+.modal-espring-coupon-number-mb p {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  margin: 0px;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.modal-espring-coupon-mb-box.coupon-disabled .modal-espring-coupon-number-mb p {
+  color: #949494;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.modal-espring-coupon-mb-box.coupon-enable .modal-espring-coupon-number-mb p {
+  color: #2c2c2c;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.modal-espring-coupon-mb-box.coupon-enable .modal-espring-coupon-number-mb .coupon-enable-mb {
+  display: block;
+}
+
+.modal-espring-coupon-mb-box.coupon-enable .modal-espring-coupon-number-mb .coupon-disabled-mb {
+  display: none;
+}
+
+.modal-espring-coupon-mb-box.coupon-disabled .modal-espring-coupon-number-mb .coupon-enable-mb {
+  display: none;
+}
+
+.modal-espring-coupon-mb-box.coupon-disabled .modal-espring-coupon-number-mb .coupon-disabled-mb {
+  display: block;
+}
+
+.modal-espring-coupon-info-mb-title,
+.modal-espring-coupon-info-mb-date {
+  margin: 0px;
+}
+
+.modal-espring-coupon-mb-box.coupon-disabled .modal-espring-coupon-info-mb-title {
+  color: #949494;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.modal-espring-coupon-mb-box.coupon-enable .modal-espring-coupon-info-mb-title {
+  color: #38539A;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.modal-espring-coupon-mb-box.coupon-disabled .modal-espring-coupon-info-mb-date {
+  color: #949494;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.modal-espring-coupon-mb-box.coupon-enable .modal-espring-coupon-info-mb-date {
+  color: #38539A;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.espring-modal-section-coupon-table-details-btn.espring-modal-section-coupon-table-details-btn-mb {
+  margin: 0px;
+}
+
+.modal-espring-coupon-info-mb {
+  margin: 8px 0px;
+}
+
+.modal-espring-coupon-info-buy-mb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.modal-dialog.modal-dialog-slidebottom {
+  background-color: transparent;
+}
+
+.modal-dialog.modal-dialog-slidebottom .modal-header {
+  background-color: #38539A;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modal-dialog.modal-dialog-slidebottom .modal-header h5 {
+  color: #ffffff;
+}
+
+.modal-dialog.modal-dialog-slidebottom .modal-header .modal-espring-details-header-mb {
+  justify-content: space-between;
+  width: 100%;
+}
+
+.modal-dialog.modal-dialog-slidebottom.espring-modal-section-menu .modal-header {
+  background-color: #2c2c2c;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.section-details-product-status-line-mb {
+  border-bottom: 1px solid #D6D6D6;
+  margin: 8px 0px;
+}
+
+.modal.fade.show#espringHistoryMobile,
+.modal.fade.show#espringShareLinkPDPMobile {
+  z-index: 9999;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table {
+  background-color: #E3E5FF;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table p {
+  font-size: 14px;
+  text-align: start;
+  color: #38539A;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table-details {
+  border: none;
+  background-color: #F1F2FF;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table-details:last-child {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control {
+  margin-bottom: 8px;
+  border: none;
+
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb.form-control {
+  color: #2c2c2c;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 0px;
+
+  display: flex;
+  align-items: center;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb.form-control[type="date"] {}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control {
+  font-size: 16px;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control.unselect {
+  color: #2c2c2c;
+  font-weight: 700;
+  background-color: #F1F2FF;
+  border: none;
+  padding: 4px 36px 4px 0px;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control.form-control-downline.unselect {
+  color: #38539A;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control.unselect {
+  position: relative;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control {
+  padding: 8px 0px;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control.unselect {
+  /* Add padding for the image */
+  background-image: url('/AmwayTemplate/assets/icon/espring/icon-profile-edit.svg');
+  background-size: 20px;
+  /* Set the size of the image */
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  /* Position the image */
+  /* Add border for the input */
+  border-radius: 5px;
+  /* Optional: Add border radius */
+
+  cursor: pointer;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control.form-control-profile.unselect {
+  /* Add padding for the image */
+  background-image: url('/AmwayTemplate/assets/icon/espring/icon-profile-edit.svg');
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .form-control.unselect {
+  /* Add padding for the image */
+  background-image: url('/AmwayTemplate/assets/icon/espring/icon-history-date-change.svg');
+  background-size: 20px;
+  /* Set the size of the image */
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  /* Position the image */
+  /* Add border for the input */
+  border-radius: 5px;
+  /* Optional: Add border radius */
+
+  cursor: pointer;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table-details-text {
+  text-align: start;
+  margin-bottom: 8px;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table-details-text-title {
+  color: #2C2C2C;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: start;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table-details-text {
+  color: #707070;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: start;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table-details-text-name {
+  color: #2C2C2C;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: start;
+}
+
+.espring-modal-section-coupon-table-container.espring-modal-section-coupon-table-container-mb .espring-modal-section-coupon-table-details {
+  align-items: start;
+}
+
+.espring-modal-section-coupon-table-container-mb .container {
+  margin: 0px;
+}
+
+.espring-modal-section-coupon-table-details-note-mb {
+  margin-top: 16px;
+}
+
+.espring-modal-section-coupon-table-details-note-mb-title {
+  color: #5E5E5E;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: start;
+  margin-bottom: 4px
+}
+
+.espring-modal-section-coupon-table-details-note-mb-details {
+  color: #5E5E5E;
+  font-size: 12px;
+  font-weight: 500;
+  text-align: start;
+
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  margin: 0px;
+}
+
+.espring-modal-section-share-link-downline-mb .share-link-downline-title {
+  font-size: 14px;
+}
+
+.espring-modal-section-share-link-downline-mb .espring-modal-section-product-name .form-control {
+  font-size: 14px;
+}
+
+.espring-modal-section-share-link-downline-mb .share-link-downline-btn {
+  font-size: 14px;
+}
+
+.espring-modal-section-share-link-downline-mb .share-link-downline-btn-line-text p {
+  font-size: 14px;
+}
+
+.espring-modal-section-share-link-downline-mb .share-link-downline-btn-copy p {
+  font-size: 14px;
+}
+
+.espring-modal-section-share-link-downline-mb .share-link-downline-btn-copy button {
+  font-size: 14px;
+}
+
+.spring-product-title-status-mb {
+  color: #707070;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.espring-product-title.section-details-user.registered .spring-product-title-status-mb {
+  display: block;
+}
+
+.espring-product-title.section-details-user.non-register .spring-product-title-status-mb {
+  display: none;
+}
+
+.espring-profile-details-mb .row .espring-product-title-box-mb {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+}
+
+.espring-product-title-box-mb .espring-product-title.section-details-user {
+  margin: 0px;
+}
+
+.search-mb {
+  background-color: #f2f2f2;
+}
+
+.espring-sd-mb-filter {
+  display: flex;
+  align-items: center;
+}
+
+.search-btn {
+  background-color: transparent;
+  background-image: url(/AmwayTemplate/assets/icon/espring/icon-search-mb.svg);
+  right: 0.75rem;
+  width: 1.3rem;
+  height: 1.2rem;
+}
+
+.search-input:focus~.search-btn,
+.search-input:hover~.search-btn,
+.form-search.active .search-btn {
+  background-image: url(/AmwayTemplate/assets/icon/espring/icon-search-mb-white.svg );
+  right: 0.75rem;
+  width: 1.3rem;
+  height: 1.2rem;
+  background-color: transparent;
+}
+
+.espring-nav-account-mb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.espring-nav-account-mb p {
+  margin: 0px;
+}
+
+.espring-nav-header-mb {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.espring-modal-section-menu .modal-body {
+  background-color: #f2f2f2;
+}
+
+.modal-title.modal-espring-menu-setting-mb img {
+  width: 26px;
+}
+
+.modal-title.modal-espring-menu-setting-mb {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.modal-espring-menu-setting-list-mb .dropdown {
+  width: 100% !important;
+}
+
+.modal-espring-menu-setting-list-mb .sd-dropdown {
+  height: 2.5rem;
+}
+
+.modal-espring-menu-setting-list-mb .smart-dashboard-espring-content-profile-menu-dropdown {
+  margin: 8px 0px;
+}
+
+.modal-espring-menu-setting-list-mb .amway-switch-input:checked~.amway-switch-label::before {
+  content: '';
+  background: #38539A;
+  border: 1px solid #38539A;
+}
+
+.modal-espring-menu-setting-list-mb .amway-switch-input:checked~.amway-switch-label::after {
+  border: 1px solid #38539A;
+}
+
+.modal-espring-menu-setting-list-mb .smart-dashboard-espring-content-profile-menu-dropdown .dropdown .sd-dropdown {
+  font-size: 14px;
+}
+
+.modal-espring-menu-setting-list-mb .form-cs-switch {
+  padding: 0px;
+  border-right: none;
+}
+
+.modal-espring-menu-setting-list-mb .form-cs-switch label {
+  color: #2C2C2C;
+  font-size: 14px;
+  font-weight: 700;
+  min-width: 240px;
+}
+
+.modal-espring-menu-setting-list-mb .smart-dashboard-espring-content-product-section-reset-menu {
+  width: fit-content;
+  margin: auto;
+  min-width: 120px;
+  margin-top: 16px;
+}
+
+.smart-dashboard-espring-content-profile-details-box.smart-dashboard-espring-content-profile-details-box-mb {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.espring-profile-icon-note {
+  margin-top: 16px;
+}
+
+.espring-profile-icon-note img {
+  margin-right: 8px;
+  width: 14px;
+}
+
+.espring-profile-icon-note .icon-pv {
+  width: 18px;
+}
+
+.espring-profile-icon-note .icon-gpv {
+  width: 22px;
+}
+
+.espring-profile-icon-note p {
+  margin: 0px;
+  color: #5E5E5E;
+  font-family: "Sukhumvit Tadmai";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.smart-dashboard-espring-content-profile-catagory-amount-mb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+}
+
+.smart-dashboard-espring-content-profile-catagory-amount-mb p {
+  color: #2C2C2C;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0px;
+  height: 23px;
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-body-espring-profile-header-mb .espring-modal-section-product-name .product-number {
+  font-size: 12px;
+}
+
+.modal-body-espring-profile-header-mb .espring-modal-section-product-name .product-title {
+  font-size: 14px;
+}
+
+.modal-body-espring-profile-header-mb .espring-modal-section-product-name .form-control.form-control-profile.unselect {
+  font-size: 14px;
+}
+
+.modal-body-espring-profile-header-mb .espring-modal-section-btn-save {
+  font-size: 14px;
+}
+
+.espring-modal-section-product-name-edit .product-number {
+  font-size: 12px;
+}
+
+.espring-modal-section-product-name-edit .product-title {
+  font-size: 14px;
+}
+
+.espring-modal-section-product-name-edit .form-control.unselect {
+  font-size: 14px;
+}
+
+.espring-modal-section-product-name-edit .espring-modal-section-btn-save {
+  font-size: 14px;
+}
+
+.modal-espring-button-history {
+  margin-top: 8px;
+}
+
+.modal-espring-button-history button {
+  height: 32px;
+
+}
+
+.modal-body-espring-profile-maintance-status-box .col-6 {
+  padding: 0px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: flex-end;
+
+}
+
+.modal-body-espring-profile-maintance-status-box .row {
+  margin: 16px 0px;
+}
+
+.modal-body-espring-history-table-mb {
+  background-color: #E3E5FF;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  margin-top: 24px;
+}
+
+.modal-body-espring-history-table-mb.package-overdate {
+  background-color: #949494;
+}
+
+.modal-body-espring-history-table-details-mb {
+  background-color: #F1F2FF;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.modal-body-espring-history-table-details-mb.package-overdate {
+  background-color: #f2f2f2;
+}
+
+.modal-body-espring-history-table-details-mb .row,
+.modal-body-espring-history-table-mb .row {
+  margin: 0px;
+}
+
+.modal-body-espring-history-table-mb p {
+  color: #38539A;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.modal-body-espring-history-table-mb.package-overdate p {
+  color: #ffffff;
+}
+
+.modal-body-espring-history-table-details-mb.package-overdate .sup-title {
+  color: #707070;
+}
+
+.modal-body-espring-history-table-details-mb.package-overdate p:nth-child(2) {
+  color: #707070;
+}
+
+.modal-body-espring-history-table-mb .col-6,
+.modal-body-espring-history-table-mb .col-4,
+.modal-body-espring-history-table-mb .col-2,
+.modal-body-espring-history-table-details-mb .col-6,
+.modal-body-espring-history-table-details-mb .col-4,
+.modal-body-espring-history-table-details-mb .col-2 {
+
+  padding: 8px 8px;
+}
+
+.modal-body-espring-history-table-mb .col-6,
+.modal-body-espring-history-table-mb .col-4,
+.modal-body-espring-history-table-mb .col-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-body-espring-profile-header-mb .col-12 {
+  padding: 0px;
+}
+
+.modal-body-espring-history-table-details-title-mb p {
+  text-align: start;
+
+}
+
+.modal-body-espring-history-table-details-box-mb {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 8px;
+}
+
+.modal-body-espring-history-table-details-box-mb p:first-child {
+  color: #2C2C2C;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.modal-body-espring-history-table-details-box-mb p:nth-child(2) {
+  color: #38539A;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.modal-body-espring-history-table-details-box-mb img {
+  width: 30px;
+}
+
+.modal-body-espring-history-table-details-mb .sup-title {
+  color: #38539A;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.modal-body .section-details-product-image img {
+  max-width: 75px;
+}
+
+.modal-body .section-details-product-image.package-active .section-details-product-image-icon img {
+  width: 40px;
+}
+
+.modal-body .section-details-product-image-icon {
+  top: -8px;
+}
+
+.smart-dashboard-espring-content-profile.smart-dashboard-espring-content-profile-mb.selected .smart-dashboard-espring-content-profile-catagory-amount-mb {
+  display: none;
+}
+
+.modal-body-espring-profile-register-details.none-register .modal-body-espring-profile-register-details-condition {
+  font-size: 14px;
+  color: #38539A;
+}
+
+.share-link-downline-text-info {
+  margin-top: 16px;
+}
+
+.smart-dashboard-espring-select-category-title p {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
